@@ -1,4 +1,4 @@
-<em> # Conversor de Monedas JAVA </em>
+# Conversor de Monedas JAVA
 <br>
 Este es un proyecto challenge proporcionado por AluraLatam al participar en el programa ONE Oracle Next Education.
 <br>
