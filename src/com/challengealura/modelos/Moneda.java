@@ -3,8 +3,8 @@ package com.challengealura.modelos;
 import java.util.Map;
 
 public class Moneda {
-    String codigoMoneda;
-    Map<String, Double> ratiosDeConversion;
+    private String codigoMoneda;
+    private Map<String, Double> ratiosDeConversion;
 
     public Moneda(MonedaExchangeRate monedaER) {
         this.codigoMoneda = monedaER.base_code();
