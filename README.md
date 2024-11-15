@@ -5,7 +5,7 @@ Este es un proyecto challenge proporcionado por AluraLatam al participar en el p
 El objetivo de esta aplicación es utilizar la ExchageRate - API (https://www.exchangerate-api.com/)
 para realizar conversiones de una moneda a la otra con la información proporcionada por dicha API.
 
-<br><br>
+<hr>
 
 Al iniciar la aplicación tendremos el siguiente menú:
 <br>
@@ -16,7 +16,7 @@ la moneda que nosotros queremos convertir a otra.
 <br>
 Para este ejemplo se selecionará la opción número 1.
 
-<br><br>
+<hr>
 
 Una vez seleccionada una opción, nos desplegara el mismo menú con las mismas opciones.
 <br>
@@ -28,7 +28,7 @@ inicialmente seleccionada.
 <br>
 Para este ejemplo se seleccionará la opción número 2.
 
-<br><br>
+<hr>
 
 Luego de seleccionar las monedas, tanto desde la que queremos convertir y a la que queremos convertir,
 el programa nos solicitará ingresar el monto correspondiente a la moneda inicial.
@@ -41,7 +41,7 @@ Ingresado el monto a convertir, el programa procederá a realizar la solicitud a
 y realizará la conversión, mostrando tanto el monto ingresado y desde que moneda de convierte,
 como también el resultado de la conversión y la moneda a la que se convirtió.
 
-<br><br>
+<hr>
 
 Volviendo al menú inicial...
 <br>
@@ -62,4 +62,18 @@ ademas de listar dichos códigos, también listan a que móneda corresponde cada
 <br>
 En este ejemplo utilizaremos el Dolar[USD] y el Sol Peruano[PEN].
 
-<br><br>
+<hr>
+
+Una vez proporcionado el código para la móneda desde la que convertir, seleccionaremos la opción número 5 nuevamente
+<br>
+en el segundo menú e ingresaremos el código correspondiente al Sol Peruano[PEN]
+<br>
+![Solicitud de código de moneda y monto a convertir](https://github.com/user-attachments/assets/19a346cd-c203-450c-b51a-05a1ed07818d)
+<br>
+Luego de ingresar ambos códigos, ingresaremos nuevamente un monto a convertir y podremos ver el resultado de la operación.
+
+<hr>
+
+Como podemos ver, es una aplicación simple pero efectiva.
+<br>
+Muchas gracias por utilizar y espere les resulte de mucha utilidad.
